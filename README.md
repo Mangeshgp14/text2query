@@ -1,4 +1,8 @@
 # Text2Query 🔍➡️🧾
+**Demo**
+[Link](https://drive.google.com/file/d/1B3TOtfvEzrNRn8ktblGnt_6t2ovLcKvD/view?usp=sharing)
+
+---
 
 **Summary:** Help non-technical Product Managers turn plain-English questions into SQL queries and actionable answers — so PMs can validate hypotheses and track KPIs without waiting on data teams.
 
