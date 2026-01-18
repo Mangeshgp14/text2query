@@ -1,5 +1,5 @@
 # Text2Query 🔍➡️🧾
-**App Demo: **
+**App Demo:**
 [Link](https://drive.google.com/file/d/1B3TOtfvEzrNRn8ktblGnt_6t2ovLcKvD/view?usp=sharing)
 
 ---
