@@ -4,7 +4,7 @@
 
 ---
 
-**Summary:** Help non-technical Product Managers turn plain-English questions into SQL queries and actionable answers — so PMs can validate hypotheses and track KPIs without waiting on data teams.
+**Summary:** Help non-technical Product Managers turn plain-English questions into SQL queries and actionable answers, so that PMs can validate hypotheses and track KPIs without waiting on data teams.
 
 ---
 
